@@ -5,7 +5,7 @@
 == Installation
   
 (1) Add to Gemfile:
-    gem 'ipgeobase', github: 'glebtv/ipgeobase'
+    gem 'glebtv_ipgeobase', github: 'glebtv/ipgeobase'
 (2) Install required gems:
     bundle install
 (3) Create models
